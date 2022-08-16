@@ -15,7 +15,7 @@ export default function PostPage({ post }: { post: Post }) {
         <div>
             <main style={{ margin: '3rem' }}>
                 <div>
-                    <Link href="/">
+                    <Link href="/posts">
                         <a>&larr; back home</a>
                     </Link>
                 </div>
